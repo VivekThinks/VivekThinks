@@ -44,17 +44,17 @@ problem solving, and building practical applications.
 
 ## 🚀 Featured Projects
 
-### 💊 Medi-Minder
+### 💊 [Medi-Minder](https://github.com/VivekThinks/Medi-Minder)
 
 AI-powered medication tracking application built collaboratively during a hackathon.
 
-### 📋 Scrum Backlog Manager
+### 📋 [Scrum Backlog Manager](https://github.com/VivekThinks/Scrum-Backlog-Manager)
 
 Java Swing desktop application for managing Scrum projects, backlogs, sprints, and tasks.
 
-### 🎮 Ball-Catcher
+### 🎮 [Ball-Catcher](https://github.com/VivekThinks/Ball-Catcher)
 
-Java Swing game using 2D graphics, keyboard/mouse input, and event-driven programming.
+Java Swing game using 2D graphics, keyboard input, and event-driven programming.
 
 ---
 
