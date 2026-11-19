@@ -62,4 +62,4 @@ Java Swing game using 2D graphics, keyboard input, and event-driven programming.
 
 [![GitHub](https://img.shields.io/badge/GitHub-VivekThinks-181717?style=for-the-badge&logo=github)](https://github.com/VivekThinks)
 
-[![Instagram](https://img.shields.io/badge/Instagram-@vvk.404-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOURUSERNAME)
+[![Instagram](https://img.shields.io/badge/Instagram-@vivekpt01-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vivekpt01)
