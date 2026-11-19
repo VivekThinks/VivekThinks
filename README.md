@@ -42,8 +42,6 @@ problem solving, and building practical applications.
 
 ---
 
----
-
 ## 🚀 Featured Projects
 
 ### 💊 [Medi-Minder](https://github.com/VivekThinks/Medi-Minder)
