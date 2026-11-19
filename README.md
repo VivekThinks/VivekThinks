@@ -42,6 +42,20 @@ problem solving, and building practical applications.
 
 ---
 
+---
+
+## 🔨 Currently Working On
+
+### 🌐 [Gensho](https://github.com/VivekThinks/Gensho)
+
+AI-powered manga and manhwa translation tool designed to deliver near-instant translations, reducing the wait between chapter releases and translated content.
+
+**Focus:** Translation latency, automated text detection, AI translation, and image reconstruction.
+
+**Tech Stack:** Python, FastAPI, React, TypeScript
+
+---
+
 ## 🚀 Featured Projects
 
 ### 💊 [Medi-Minder](https://github.com/VivekThinks/Medi-Minder)
